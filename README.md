@@ -3,7 +3,7 @@ Task 1 - Week 2 (Summer Training)
 
 --------
 ## About This Task
-Creating and designing a simple personal website using HTML and CSS
+Creating and designing a simple personal website using HTML and CSS, and deployed it on a Github Pages.
 
 ---------
 ### Screenshots of the website
@@ -16,4 +16,4 @@ Creating and designing a simple personal website using HTML and CSS
 It's a very simple website consists of two pages. Each page presents a welcoming message, a simple paragraph of what's this page about, floating robot and a button to switch to the other page.
 
 You’ll find the code implementation in the `webTask_pg1_SuT.txt` and `webTask_pg2_SuT.txt` files. 
-
+Also you can [*Check out my website*](https://shahadaljohani.github.io/SuT_Web_Task1/index.html)
