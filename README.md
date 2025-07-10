@@ -16,4 +16,4 @@ Creating and designing a simple personal website using HTML and CSS
 It's a very simple website consists of two pages. Each page presents a welcoming message, a simple paragraph of what's this page about, floating robot and a button to switch to the other page.
 
 You’ll find the code implementation in the `webTask_pg1_SuT.txt` and `webTask_pg2_SuT.txt` files. 
-You can also [*Try out my Website*](file:///C:/Users/Shahad/Desktop/SuT_webTask/WebTask_SuT.html#)
+
