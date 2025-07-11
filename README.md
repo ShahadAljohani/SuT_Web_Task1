@@ -1,5 +1,5 @@
 # SuT_Web_Task1
-Task 1 - Week 2 (Summer Training)
+Task 1 - Week 3 (Summer Training)
 
 --------
 ## About This Task
